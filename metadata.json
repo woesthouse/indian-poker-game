@@ -1,0 +1,6 @@
+
+{
+  "name": "Indian Poker Game",
+  "description": "A two-player Indian Poker game where players bet chips based on the opponent's card they can see, while their own card is hidden to them. The game uses a deck of 20 cards (two of each number from 1 to 10)."
+}
+    
